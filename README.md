@@ -7,3 +7,8 @@
 2. remove '/data/workspace_files/' from file_path
 3. Install pandas,numpy,matplotlib,scikit-learn and jupyter
 4. Open the notebook
+
+# Screenshots
+![alt](1.png)
+![alt](2.png)
+![alt](3.png)
